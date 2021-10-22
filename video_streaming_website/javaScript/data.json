@@ -1,0 +1,312 @@
+{
+    "banners": [
+         {
+            
+            "type":"banner",
+            "movie": "BlackPanther",
+            "hd": "UHD",
+            "duration": "125 Min",
+            "age": "16+",
+            "image": "images/black-banner.jpg",
+            "rating": "4.6",
+            "info":"Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. ... In Black Panther, T'Challa is crowned king of Wakanda "
+        },
+        {
+            "type":"banner",
+            "movie": "SpiderMan",
+            "hd": "HD",
+            "duration": "145 min",
+            "age": "17+",
+            "image": "images/spiderman.png",
+            "rating": "4.5",
+            "info":"Spider-Man: No Way Home is an upcoming American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios,"
+        },
+        {
+            "type":"banner",
+            "movie": "WandaVison",
+            "hd": "HD",
+            "duration": "136 Min",
+            "age": "13+",
+            "image": "images/wanda-banner.png",
+            "rating": "3.4",
+            "info":"Living idealized suburban lives, super-powered beings Wanda and Vision begin to suspect that everything is not as it seems."
+        }
+    
+
+        
+    ],
+    "popularShows":[
+        {     "type":"popular", 
+            "movie": "Storm",
+            "hd": "4K",
+            "duration": "110 Min",
+            "age": "16",
+            "image": "images/popular/3.jpg",
+            "rating": "4"
+        },
+        {      "type":"popular",
+            "movie": "Avengers",
+            "hd": "HD",
+            "duration": "138 Min",
+            "age": "16",
+            "image": "images/popular/5.jpg",
+            "rating": "4"
+        },
+        {      "type":"popular",
+            "movie": "Storm",
+            "hd": "UHD",
+            "duration": "114 Min",
+            "age": "16",
+            "image": "images/popular/7.jpg",
+            "rating": "4"
+        },
+        {    "type":"popular",  
+            "movie": "Mulan",
+            "hd": "HD",
+            "duration": "129 Min",
+            "age": "16",
+            "image": "images/popular/u1.jpg",
+            "rating": "4"
+        },
+        {      "type":"popular",
+            "movie": "CaptianAmerica",
+            "hd": "HD",
+            "duration": "113 Min",
+            "age": "16",
+            "image": "images/popular/u3.jpg",
+            "rating": "4"
+        },
+        {  "type":"popular",
+             
+            "movie": "LifeOfPi",
+            "hd": "HD",
+            "duration": "117 Min",
+            "age": "16",
+            "image": "images/popular/u4.jpg",
+            "rating": "4"
+        },
+        {    "type":"popular",  
+            "movie": "Passengers",
+            "hd": "4k",
+            "duration": "120 Min",
+            "age": "16",
+            "image": "images/popular/u5.jpg",
+            "rating": "4"
+        }
+
+        
+
+    ],
+    "series":[
+        {    
+            "type":"series",  
+            "movie": "mandalorian",
+            "hd": "4k",
+            "duration": "3 Episodes",
+            "age": "16",
+            "image": "images/series/mandalorian.jpg",
+            "rating": "4"
+        },
+        {      "type":"series",
+            "movie": "pentHouse",
+            "hd": "UHD",
+            "duration": "4 Episodes",
+            "age": "16",
+            "image": "images/series/penthouses.jpg",
+            "rating": "4"
+        },
+        {   "type":"series",   
+            "movie": "StaerTrek-1",
+            "hd": "HD",
+            "duration": "4 Episodes",
+            "age": "16",
+            "image": "images/series/star-trek.jpg",
+            "rating": "4"
+        },
+        {      "type":"series",
+            "movie": "StrangerThings",
+            "hd": "HD",
+            "duration": "7 Episodes ",
+            "age": "16",
+            "image": "images/series/stranger-thing.jpg",
+            "rating": "4"
+        },
+        
+        {      
+            "type":"series",
+            "movie": "TheFalcon",
+            "hd": "4K",
+            "duration": "4 Episodes",
+            "age": "16",
+            "image": "images/series/the-falcon.webp",
+            "rating": "4"
+        },
+        {   "type":"series",  
+            "movie": "Wanda",
+            "hd": "HD",
+            "duration": "17 Episodes",
+            "age": "16",
+            "image": "images/series/wanda.png",
+            "rating": "4"
+        },
+        {    "type":"series",  
+            "movie": "StarTrek2",
+            "hd": "UHD",
+            "duration": "3 Episodes",
+            "age": "16",
+            "image": "images/series/start-trek.jpeg",
+            "rating": "4"
+        },
+        {    "type":"series",  
+            "movie": "wandaVison",
+            "hd": "HD",
+            "duration": "6 Episodes",
+            "age": "16",
+            "image": "images/series/wanda.webp",
+            "rating": "4"
+        }
+
+    ],
+    "cartoons":[
+        {"type":"cartoons",
+            "movie": "Naruto",
+            "hd": "HD",
+            "duration": "8 seasons",
+            "age": "16",
+            "image": "images/cartoons/naruto.jpg",
+            "rating": "5" 
+        },
+        {
+            "type":"cartoons",
+            "movie": "AttackOnTitans",
+            "hd": "4K",
+            "duration": "4 seasons",
+            "age": "16",
+            "image": "images/cartoons/attack.jpg",
+            "rating": "4" 
+        },
+        {"type":"cartoons",
+            "movie": "DemonSlayer",
+            "hd": "HD",
+            "duration": "135 min",
+            "age": "16",
+            "image": "images/cartoons/demon-slayer.jpg",
+            "rating": "4" 
+        },
+        {"type":"cartoons",
+            "movie": "Dragon",
+            "hd": "HD",
+            "duration": "145 min",
+            "age": "16",
+            "image": "images/cartoons/dragon.jpg",
+            "rating": "4" 
+        },
+        {"type":"cartoons",
+            "movie": "overTheMoon",
+            "hd": "4K",
+            "duration": "133 min",
+            "age": "16",
+            "image": "images/cartoons/over-the-moon.jpg",
+            "rating": "4" 
+        },
+        {"type":"cartoons",
+            "movie": "Weathering",
+            "hd": "UHD",
+            "duration": "144 min",
+            "age": "16",
+            "image": "images/cartoons/Weathering.jpg",
+            "rating": "4" 
+        },
+        {"type":"cartoons",
+            "movie": "BlackClover",
+            "hd": "HD",
+            "duration": "2 seasons",
+            "age": "16",
+            "image": "images/cartoons/blackclover.jpg",
+            "rating": "4" 
+        }
+
+    ],
+    "movies":[
+        {
+            "type":"movies",
+            "movie": "Batman",
+            "hd": "HD",
+            "duration": "111 min",
+            "age": "16",
+            "image": "images/movies/bat-man.jpg",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "BloodShot",
+            "hd": "UHD",
+            "duration": "119 min",
+            "age": "16",
+            "image": "images/movies/blood-shot.jpg",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "ShangChi",
+            "hd": "HD",
+            "duration": "133 min",
+            "age": "16",
+            "image": "images/movies/shangchi.jpeg",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "CaptianMarvel",
+            "hd": "HD",
+            "duration": "99 min",
+            "age": "16",
+            "image": "images/movies/captain-marvel.png",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "Avengers :EndGame",
+            "hd": "HD",
+            "duration": "132 min",
+            "age": "16",
+            "image": "images/movies/end-game.jpg",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "Hunter-Killer",
+            "hd": "HD",
+            "duration": "144 min",
+            "age": "16",
+            "image": "images/movies/hunter-killer.jpg",
+            "rating": "4" 
+        },
+        {"type":"movies",
+            "movie": "DUNE",
+            "hd": "SD",
+            "duration": "124 min",
+            "age": "16",
+            "image": "images/movies/dune.png",
+            "rating": "4" 
+        },
+        {
+            "type":"movies",
+            "movie": "ResidentEvil",
+            "hd": "HD",
+            "duration": "134 min",
+            "age": "16",
+            "image": "images/movies/resident-evil.jpg",
+            "rating": "5" 
+        },
+        {"type":"movies",
+            "movie": "Transformer",
+            "hd": "UHD",
+            "duration": "155 min",
+            "age": "16",
+            "image": "images/movies/transformer.jpg",
+            "rating": "5" 
+        }
+
+    ]
+}
